@@ -1,1 +1,1 @@
-[https://darkyass.github.io/arablatex/#/](https://darkyass.github.io/arablatex/#/).
+[https://darkyass.github.io/installlatex/#/](https://darkyass.github.io/installlatex/#/).
