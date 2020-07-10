@@ -1,5 +1,5 @@
 <!-- .slide: data-background="#000000" -->
-# Latex <br> Distributions et éditeurs Latex
+# Latex <br> Distributions et éditeurs
 
 
 
