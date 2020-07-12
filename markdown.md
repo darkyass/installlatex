@@ -1,10 +1,10 @@
 <!-- .slide: data-background="#000000" -->
-# Latex <br> Distributions et éditeurs
+# Latex: <br> Distributions <br> et éditeurs
 
 
 
 <!-- .slide: data-background="#000000" -->
-# Distributions Latex
+# Distributions
 
 
 ## TexLive
@@ -23,7 +23,7 @@
 
 
 <!-- .slide: data-background="#000000" -->
-# Éditeurs Latex
+# Éditeurs
 
 
 ## Texstudio
@@ -71,11 +71,27 @@
 * <a href="https://pages.uoregon.edu/koch/texshop/obtaining.html" target="_blank">TeXShop</a> (MacOSX)
 
 
+
+# Alternative <br> en ligne
+
 ## Overleaf
 
 * <a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
 
 
+## LarexBase
+
+
+## Papeeria
+
+
+## CodingGround
+
+
+## CoCalc
+
+
+## Latex.Online
 
 <!-- .slide: data-background="#000000" -->
 # Fin
